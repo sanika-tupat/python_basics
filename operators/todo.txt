@@ -1,0 +1,6 @@
+Slope is (m = y2-y1/x2-x1). 
+
+Find the slope and Euclidean distance between point 
+
+input --
+(2, 2) and point (6,10)
